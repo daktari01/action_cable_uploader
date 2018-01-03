@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Gem for authentication
 gem 'clearance', '~> 1.16'
+
+gem 'jquery-rails'
